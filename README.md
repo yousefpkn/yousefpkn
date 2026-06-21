@@ -4,20 +4,24 @@
 
 I enjoy building modern web apps and creating clean, user-friendly interfaces.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps" />
+</p>
+
+---
+
+### 🏆 Badges
+
+![React](https://img.shields.io/badge/React-Expert-61DAFB?logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-Learning-000000?logo=next.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-Developer-3178C6?logo=typescript\&logoColor=white)
+![Frontend](https://img.shields.io/badge/Frontend-Developer-orange)
+
 ---
 
 ### 🚀 Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,github)](https://skillicons.dev)
-
----
-
-### 🌱 About Me
-
-* 💻 Frontend Developer
-* ⚛️ React & Next.js Enthusiast
-* 🎨 Passionate about UI/UX
-* 🚀 Always learning new technologies
 
 ---
 
@@ -29,14 +33,6 @@ I enjoy building modern web apps and creating clean, user-friendly interfaces.
 
 ---
 
-### 🎯 Current Focus
+### 🔥 GitHub Streak
 
-* Building real-world projects
-* Improving frontend architecture skills
-* Writing cleaner and more maintainable code
-
----
-
-### 📫 Connect With Me
-
-GitHub: https://github.com/yousefpkn
+![GitHub Streak](https://streak-stats.demolab.com?user=yousefpkn\&theme=tokyonight)
