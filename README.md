@@ -16,4 +16,4 @@ Improving my frontend skills
 Building side projects  
 Learning new technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,ts)](https://skillicons.dev)
