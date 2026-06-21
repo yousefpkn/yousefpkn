@@ -17,3 +17,4 @@ Building side projects
 Learning new technologies
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,tailwind,ts)](https://skillicons.dev)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yousefpkn&show_icons=true)
