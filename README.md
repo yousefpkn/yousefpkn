@@ -5,7 +5,7 @@
 I enjoy building modern web apps and creating clean, user-friendly interfaces.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Next.js+%7C+TypeScript;Building+Modern+Web+Apps" />
+  <img src="./assets/gif.jpg" width="700" />
 </p>
 
 ---
